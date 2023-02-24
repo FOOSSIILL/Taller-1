@@ -10,7 +10,6 @@ a{
     color: #5a5a5a;
 }
 img{
-
     cursor: pointer;
 }
 
@@ -450,4 +449,50 @@ nav {
         margin-right: 15px;
         margin-top: 15px;
     }
+}
+
+.menu-icon {
+    height: 20px;
+} 
+
+.logo{
+    height: 20px;
+    margin-left: 20px;
+}
+
+.search{
+    height: 10px;
+}
+
+.voice-search{
+    height: 20px;
+}
+
+.Jack{
+    border-radius: 50px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.name{
+    display: flex;
+    
+}
+
+.mic-icon{
+    height: 30px;
+    margin-left: 10px;
+}
+
+.search{
+    margin-left: 100px;
+    border-radius: 10px;
+    border-color: gray;
+    padding: 10px;
+    width: 500px;
+    
+}
+
+.search-box{
+    margin-left: 5px;
 }
